@@ -1,0 +1,15 @@
+# directories
+log/
+node_modules/
+views/
+experiments-log/
+experiments/
+
+# vim temp file
+*.swp
+
+# node.js file
+package-lock.json
+
+# python stuff
+__pycache__
