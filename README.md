@@ -1,9 +1,9 @@
 # BFT Simulator
 A simulator for testing/verifying/benchmarking Byzantine Fault-Tolerant (BFT) protocols.
 
-P.-L. Wang, T.-W. Chao, C.-C. Wu, and H.-C. Hsiao
-
-To appear in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'22), June 2022.
+P. -L. Wang, T. -W. Chao, C. -C. Wu and H. -C. Hsiao
+"Tool: An Efficient and Flexible Simulator for Byzantine Fault-Tolerant Protocols"
+2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
 
 ---
 
